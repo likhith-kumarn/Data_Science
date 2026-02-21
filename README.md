@@ -1,1 +1,1 @@
-# Bot
+# Logistic Regression
